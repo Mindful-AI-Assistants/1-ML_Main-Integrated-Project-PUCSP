@@ -100,10 +100,10 @@ Imagine teaching a robot puppy to fetch a ball. You show it many examples (data)
 <br>
 
 
-- **Neural Networks**: Like a brain made of tiny math "neurons" connected together. They guess answers and fix mistakes automatically.  
-- **MLP (Multilayer Perceptron)**: A simple "brain" with layers – input (sees data), hidden (thinks), output (decides). Like stacking Lego blocks to solve puzzles.  
-- **CNN (Convolutional Neural Networks)**: Super for pictures! Spots edges, shapes, then faces – like your eyes scanning a photo. Great for cat vs. dog pics.  
-- **Frameworks**: PyTorch (fast on Apple M-series chips, feels like Python magic) and TensorFlow (Google's tool, runs anywhere). They build these "brains" without supercomputers.
+- [**Neural Networks**:]() Like a brain made of tiny math "neurons" connected together. They guess answers and fix mistakes automatically.  
+- [**MLP (Multilayer Perceptron)**:]() A simple "brain" with layers – input (sees data), hidden (thinks), output (decides). Like stacking Lego blocks to solve puzzles.  
+- [**CNN (Convolutional Neural Networks)**:]() Super for pictures! Spots edges, shapes, then faces – like your eyes scanning a photo. Great for cat vs. dog pics.  
+- [**Frameworks**:]() PyTorch (fast on Apple M-series chips, feels like Python magic) and TensorFlow (Google's tool, runs anywhere). They build these "brains" without supercomputers.
 
 
 
@@ -124,7 +124,7 @@ Imagine teaching a robot puppy to fetch a ball. You show it many examples (data)
 <br><br>
 
 
-## Course Objectives
+## [Course Objectives]()
 
 <br>
 
@@ -133,16 +133,18 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 <br><br>
 
-## Weekly Classes
+
+## [Weekly Classes]()
+
+
+<br>
 
 All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/`, etc. Update as classes happen.
 
 <br>
 
 
-
-
-| Week | Date       | Topic Summary                                                                 | Notes/Files Placeholder                  |
+| [Week]() | [Date]()       | [Topic Summary]()                                                            | [Notes/Files Placeholder]()                  |
 |------|------------|-------------------------------------------------------------------------------|------------------------------------------|
 | 1    | 19 Feb    | Introduction to Machine Learning                                              | `/week-1/intro-ml.ipynb`     |
 | 2    | 26 Feb    | What are neural networks? Intro to Perceptron. Basic shallow NN model.        | `/week-2/perceptron/`          |
@@ -168,10 +170,13 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 
 
-## Assessment
+## Assessment]()
 
-- **Seminar 1 (16 Apr 2026)**: Individual, weight 0.5. 
-- **Seminar 2 (18 Jun 2026)**: Individual, weight 0.5. 
+
+<br>
+
+- [**Seminar 1]() (16 Apr 2026)**: Individual, weight 0.5. 
+- [**Seminar 2]() (18 Jun 2026)**: Individual, weight 0.5. 
 
 Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuous evals.
 
@@ -179,33 +184,46 @@ Methods: Dialogued lectures, TF/PyTorch projects, active methodologies, continuo
 <br><br>
 
 
-## How to Use This Repo
+## [How to Use This Repo]()
 
-1. Clone: `git clone https://github.com/yourusername/PUC-SP-ML-Integrated-Project-2026.git`.  
-2. Add weekly folders with `README.md`, `.ipynb`, `.py` files.  
-3. For PyTorch (local/Apple M): `pip install torch`. Fast on M-chips!  
-4. TensorFlow: `pip install tensorflow`.  
-5. Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. [ppl-ai-file-upload.s3.amazonaws]
 
-## Professor Info
+<br>
+
+[1.]() Clone: `git clone https://github.com/yourusername/PUC-SP-ML-Integrated-Project-2026.git`.  
+[2.]() Add weekly folders with `README.md`, `.ipynb`, `.py` files.  
+[3.]() For PyTorch (local/Apple M): `pip install torch`. Fast on M-chips!  
+[4.]() TensorFlow: `pip install tensorflow`.  
+[5.]() Run notebooks in Colab or Jupyter. Share publicly for extensionist credit. [ppl-ai-file-upload.s3.amazonaws]
+
+
+<br><br>
+
+## [Professor Info]()
+
+
+<br><
+
 **Rooney Ribeiro Albuquerque Coelho** – Expert in neural networks, PyTorch/TensorFlow, practical ML projects. Contact via PUC-SP. 
 
-<br><br>
-
-
-## Bibliographic References
 
 <br><br>
 
-### Basic
-- NETTO, A.; MACIEL, F. *Python for data science and machine learning made simple*. Alta Books, 2021. [ppl-ai-file-upload.s3.amazonaws]
+
+## [Bibliographic References]()
+
+<br><br>
+
+
+### [Basic]()
+
+[-]() NETTO, A.; MACIEL, F. *Python for data science and machine learning made simple*. Alta Books, 2021. [ppl-ai-file-upload.s3.amazonaws]
 - SILVA, F. M. da et al. *Artificial Intelligence: Applications in various human activities*. Sagah, 2019. [ppl-ai-file-upload.s3.amazonaws]
 - WITTEN, I. H. et al. *Artificial Intelligence: A machine learning approach*. LTC, 2021. [ppl-ai-file-upload.s3.amazonaws]
 
 
 <br>
 
-### Complementary
+### [Complementary]()
 
 - BIFET, A. et al. *Machine learning for data streams*. MIT Press, 2018. [ppl-ai-file-upload.s3.amazonaws]
 - CANO, A. *Social media and machine learning*. IntechOpen, 2020. [ppl-ai-file-upload.s3.amazonaws]
