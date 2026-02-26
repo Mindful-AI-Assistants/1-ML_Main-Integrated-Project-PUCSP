@@ -11,20 +11,30 @@
 
 Main repo for PUC-SP 5th semester Machine Learning course (2026): weekly classes, PyTorch/TensorFlow notebooks, CNN/RNN/GAN projects, seminars, and extensionist social initiatives by Prof. Roney Coelho.
 
+<br><br>
+
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
+ </p>
+
+<br><br>
+
 
 <!-- ======================================= Start DEFAULT HEADER ===========================================  -->
 
 <br><br>
-
 
 ### Machine Learning Integrated Project - PUC-SP 5th Semester (2026)
 
 [**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP) <br>
 [**School:**]() Faculty of Interdisciplinary Studies  <br>
 [Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
-[Professor:]() [Rooney Ribeiro Albuquerque Coelho]()  <br>
+**Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
 [Program:]() Data Science and Artificial Intelligence (Humanistic AI and Data Science)  <br>
 [Extensionist Activities:]() Social projects with open-source software for community support.  <br>
+
+
 
 
 <br><br>
