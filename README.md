@@ -126,26 +126,25 @@ https://github.com/user-attachments/assets/cc9e4385-386b-4869-93f4-aaba0934f9da
 ## Table of Contents
 
 
-- [Course Objectives](#course-objectives)
+- [Course Overview](#course-overview)
 - [Core Learning Pillars](#core-learning-pillars)
 - [Architecture Applications](#architecture-applications) 
-- [Weekly Classes](#weekly-classes)
+- [Weekly Classes - Sub-Repositories](#weekly-classes-sub-repositories)
 - [Folder Structure](#folder-structure)
 - [Related Project Repositories](#related-project-repositories)
+- [How to Use This Repo](#how-to-use-this-repo)
 - [Grading & Assessment](#grading--assessment)
 - [Learning Resources](#learning-resources)
 - [Tooling Stack](#tooling-stack)
 - [Contributing Guidelines](#contributing-guidelines)
 - [Bibliographic References](#bibliographic-references)
-- [Sub-Repositories](#sub-repositories)
-- [How to Use This Repo](#how-to-use-this-repo)
-- [Professor Info](#professor-info)
+- [Contact Me](#contact-me)
 
 
 <br><br>
 
 
-## [Course Objectives]()
+## [Course Overview]()
 
 <br>
 
@@ -156,7 +155,7 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 
 
-## Core Learning Pillars
+## [Core Learning Pillars]()
 
 <br>
 
@@ -172,6 +171,8 @@ Present basic and advanced concepts of artificial neural networks (ANNs), their 
 
 
 ## [Architecture Applications]()  
+
+<br>
 
 | **Acronym** | **Full Name** | **Primary Application** | **Real-World Use** |
 |-------------|---------------|-------------------------|-------------------|
@@ -196,7 +197,7 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 <br>
 
 
-| [Week]() | [Date]()       | [Topic Summary]()                                                            | [Notes/Files Placeholder]()                  |
+| [Week]() | [Date]()       | [Sub-repositories - Topic Summary]()                                 | [Notes/Files Placeholder]()                  |
 |------|------------|-------------------------------------------------------------------------------|------------------------------------------|
 | 1    | 19 Feb    | Introduction to Machine Learning                                              | `/week-1/intro-ml.ipynb`     |
 | 2    | 26 Feb    | What are neural networks? Intro to Perceptron. Basic shallow NN model.        | `/week-2/perceptron/`          |
@@ -284,8 +285,9 @@ All materials (slides, code, notebooks) go in folders like `/week-1/`, `/week-2/
 
 <br>
 
-- [**Seminar 1 (16 Apr 2026)**:]() Individual, weight 0.5. 
-- [**Seminar 2 (18 Jun 2026)**:]() Individual, weight 0.5.
+[-]() [**Seminar 1 (16 Apr 2026)**:]() Individual, weight 0.5. <br>
+[-]() [**Seminar 2 (18 Jun 2026)**:]() Individual, weight 0.5.
+
 
 <br>
 
@@ -295,13 +297,13 @@ Methods: Dialogued lectures, [TF]() / [PyTorch]() projects, active methodologies
 <br><br>
 
 
-## Learning Resources 
+## [Learning Resources]()
 
 <br>
 
 [-]() PyTorch Tutorials <br>
 [-]() Fast.ai Practical Deep Learning <br>
-[-]() Papers With Code <br>
+[-]() Papers With Code 
 
 
 <br><br>
@@ -333,7 +335,7 @@ pip install torch torchvision tensorflow pandas numpy matplotlib wandb
 
 
 
-
+<br><br>
 
 
 
